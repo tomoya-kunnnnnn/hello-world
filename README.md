@@ -9,3 +9,5 @@ Test basic usecases of git and GitHub on this repository.
 This line is used to test 'git diff' commander.
 
 This line is used to check Branch function and is committed into branch 'feature-A'.
+
+This line is written into branch 'fix-B' and is after 'feature-A'.
