@@ -11,3 +11,6 @@ This line is used to test 'git diff' commander.
 This line is used to check Branch function and is committed into branch 'feature-A'.
 
 This line is written into branch 'fix-B' and is after 'feature-A'.
+
+This line is written inot branch 'feature-C' and left some spell mistakes to fix later. (error fixed)
+
