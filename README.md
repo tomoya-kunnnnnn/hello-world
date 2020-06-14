@@ -14,3 +14,5 @@ This line is written into branch 'fix-B' and is after 'feature-A'.
 
 This line is written inot branch 'feature-C' and left some spell mistakes to fix later. (error fixed)
 
+Developer 2 contributed this line to branch 'feature-D'
+
